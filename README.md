@@ -26,7 +26,7 @@
 
   <section>
     <h2>Contact</h2>
-    <p>Email: yourname@example.com</p>
+    <p>Email: abadr8914@gmail.com.com</p>
   </section>
 </body>
 </html>
